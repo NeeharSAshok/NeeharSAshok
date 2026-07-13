@@ -33,7 +33,7 @@ philosophy: "Automate the repeatable, secure the critical, monitor the rest."
 - 🎓 B.Tech in Computer Science Engineering (Cloud Computing Specialisation), SRM Institute of Science and Technology
 - ☁️ Advanced Certification in Cloud Computing & DevOps, IIT Guwahati — recognised as a top scorer
 - 💼 Full Stack Java Developer Intern @ **Kodnest Technologies** (Aug 2024 – Mar 2025), Bengaluru
-- 🔭 Currently deepening skills in Azure/Azure DevOps, ArgoCD, and Datadog
+- 🔭 Currently deepening skills in aws  DevOps, ArgoCD, and Datadog
 - 🌱 Practicing DSA in Java (LeetCode) and hardening production-style DevOps pipelines
 - 📫 Reach me at **neeharsashok2002@gmail.com**
 
